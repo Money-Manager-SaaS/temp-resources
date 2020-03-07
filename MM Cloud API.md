@@ -225,7 +225,8 @@ The 3 parameters below, either one exist the API can work,
 
 ## References
 
-- [fake api](https://github.com/Money-Manager-SaaS/money-manager-ss-fake-db/blob/master/db.json)
+- [fake api repo](https://github.com/Money-Manager-SaaS/money-manager-ss-fake-db/blob/master/db.json)
+- [fake api url](https://my-json-server.typicode.com/Money-Manager-SaaS/money-manager-ss-fake-db/transactions)
 - [BFF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&cad=rja&uact=8&ved=2ahUKEwig15_hpInoAhVBwzgGHe2cCBoQFjAKegQIBRAB&url=https%3A%2F%2Fsamnewman.io%2Fpatterns%2Farchitectural%2Fbff%2F&usg=AOvVaw0pgT2M2_yFQm-V0jVKItww)
 - [mmex db scehma](https://github.com/moneymanagerex/database)
 - [simple arch](![arch.jpg](https://github.com/Money-Manager-SaaS/money-manager-ss-fake-db/blob/master/arch.jpg?raw=true))
